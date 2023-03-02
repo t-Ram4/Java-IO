@@ -1,0 +1,10 @@
+ 	
+	Use the scanner to get the following  for 4 people.Store these values as a 
+	semicolon seperated value into a file using BufferedWriter. 
+	Name,Phone number ,email
+
+	Example: Ram,55599999,email ;Ravi,77778889,email;
+
+	Read these values using BufferedReader and print it.
+
+
